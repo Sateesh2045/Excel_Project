@@ -1,6 +1,7 @@
 # Excel_Project
 
 Sales and Finance Performance Analysis for AtliQ Hardwares
+
 🌟 Project Overview
 
 This project provides a comprehensive analysis of the Sales and Finance performance for AtliQ Hardwares. It explores key performance metrics, product insights, and growth trends across different markets, enabling data-driven decisions through well-organized and insightful reporting.
